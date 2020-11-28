@@ -27,6 +27,7 @@
   💬 Ask me about <a href="https://github.com/blasio99/Benedek-Balazs/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: benedekbalazs1999@gmail.com">benedekbalazs1999@gmail.com</a>
+  <br> Or <a href="mailto: contact@benedekbalazs.com">contact@benedekbalazs.com</a>
 </p>
 
 <hr>
