@@ -51,15 +51,20 @@
   <br>
   <!--code><img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png"></code-->
   
-  <code><img title="HTML5" height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black"></code>
+  <code href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target='_blank' rel='noopener' rel='noreferrer'>
+  <img title="HTML5" height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black"></code>
   
-  <code><img title="CSS" height="25" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></code>
+  <code href='https://developer.mozilla.org/en-US/docs/Web/CSS' target='_blank' rel='noopener' rel='noreferrer'>
+  <img title="CSS" height="25" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></code>
   
-  <code><img title="AngularJS" height="25" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=black"></code>
+  <code href='https://angularjs.org/' target='_blank' rel='noopener' rel='noreferrer'>
+  <img title="AngularJS" height="25" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=black"></code>
   
-  <code><img title="Spring" height="25" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></code>
+  <code href='https://spring.io/' target='_blank' rel='noopener' rel='noreferrer'>
+  <img title="Spring" height="25" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></code>
   
-  <code><img title="MYSQL" height="25" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code>
+  <code href='https://www.mysql.com/' target='_blank' rel='noopener' rel='noreferrer'>
+  <img title="MYSQL" height="25" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code>
   
   <br>
   <code href='https://git-scm.com' target='_blank' rel='noopener' rel='noreferrer'>
