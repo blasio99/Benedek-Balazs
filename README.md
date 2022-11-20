@@ -41,10 +41,5 @@ C++           7 hrs 40 mins   ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀  
 Java          5 hrs 15 mins   ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀    9.29 %
 ```
 <hr>
-<h3 align = "center" > Repositories </h3>
-<p align = "center"><a href="https://github.com/blasio99?tab=repositories" title="Show Repositories">Let's see them</a></p>
-
 <a href="https://www.buymeacoffee.com/benedekbalazs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
-<p align = "center"><a href="https://github.com/blasio99/">blasio99</a>
-</p>
