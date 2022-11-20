@@ -19,33 +19,32 @@
   
 <br>
 <p align="center">
-  💼 I'm a Software Engineer @AROBS.
+  I'm a Software Engineer @AROBS.
   <br>
-  💻 I love writing code and learn anythings about it
+  I love writing code and learn anythings about it
   <br>
-  💬 Ask me about <a href="https://github.com/blasio99/Benedek-Balazs/issues" title="Issues">Here</a>
+  Ask me about <a href="https://github.com/blasio99/Benedek-Balazs/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: benedekbalazs1999@gmail.com">benedekbalazs1999@gmail.com</a>
+  How to reach me: <a href="mailto: benedekbalazs1999@gmail.com">benedekbalazs1999@gmail.com</a>
   <br> Or <a href="mailto: balazs.benedek@arobs.com">balazs.benedek@arobs.com</a>
   <br><br>
-  <img align="center" margin="auto" alt="GIF" src="code.gif?raw=true" width="500" height="320" />
+  <img align="center" margin="auto" alt="GIF" src="hadder.gif?raw=true" width="680" height="428" />
 </p>
 
+<hr>
 <div align='center'>
 
+**This week I spent my time on:**
+```text
+Embedded C    43 hrs 35 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀   77.13 %
+C++           7 hrs 40 mins   ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.56 %
+Java          5 hrs 15 mins   ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀    9.29 %
+```
 <hr>
-<p align=center>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=blasio99&show_icons=true&theme=gotham">
-  </a>
-</p>
+<h3 align = "center" > Repositories </h3>
+<p align = "center"><a href="https://github.com/blasio99?tab=repositories" title="Show Repositories">Let's see them</a></p>
 
-<hr>
+<a href="https://www.buymeacoffee.com/benedekbalazs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
-<h2 align="center">Repositories</h2>
-
-<h4 align="center"><a href=https://github.com/blasio99?tab=repositories" title="Show Repositories">🔎 Let's see them 🔍</a></h4>
-
-<p align = "center">
-    ⭐️ <a href="https://github.com/blasio99/">blasio99</a> ⭐️
+<p align = "center"><a href="https://github.com/blasio99/">blasio99</a>
 </p>
