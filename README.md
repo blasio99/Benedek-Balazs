@@ -20,14 +20,14 @@
 <br>
 <br>
 <p align="center">
-  🎓 I'm a 3rd year Computer Science student at the Technical University of Cluj-Napoca.
+  🎓 I'm a Software Engineer @AROBS.
   <br>
   💻 I love writing code and learn anythings about it
   <br>
   💬 Ask me about <a href="https://github.com/blasio99/Benedek-Balazs/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: benedekbalazs1999@gmail.com">benedekbalazs1999@gmail.com</a>
-  <br> Or <a href="mailto: contact@benedekbalazs.com">contact@benedekbalazs.com</a>
+  <br> Or <a href="mailto: balazs.benedek@arobs.com">balazs.benedek@arobs.com</a>
 </p>
 
 <hr>
