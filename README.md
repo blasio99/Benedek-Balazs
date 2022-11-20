@@ -28,7 +28,7 @@
   📫 How to reach me: <a href="mailto: benedekbalazs1999@gmail.com">benedekbalazs1999@gmail.com</a>
   <br> Or <a href="mailto: balazs.benedek@arobs.com">balazs.benedek@arobs.com</a>
   <br><br>
-  <img align="center" margin="auto" alt="GIF" src="https://github.com/blasio99/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="center" margin="auto" alt="GIF" src="code.gif?raw=true" width="500" height="320" />
 </p>
 
 <div align='center'>
@@ -37,9 +37,6 @@
 <p align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=blasio99&show_icons=true&theme=gotham">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blasio99&hide=c%23, powershell, java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
   </a>
 </p>
 
